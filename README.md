@@ -36,13 +36,10 @@ This repository contains a series of web scraping projects that utilize Python's
    git clone https://github.com/yourusername/web-scraping-with-beautifulsoup.git
 
 ## ✔ Navigate to the project directory:
-
 cd web-scraping-with-beautifulsoup
 
 ## ✔ Install the required libraries:
-
 pip install requests beautifulsoup4
 
 ## ✔ Run the scrapers:
-
 python webscraper.py  # Replace with the specific script you want to run.
